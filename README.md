@@ -1,2 +1,0 @@
-# story
-Created with CodeSandbox
